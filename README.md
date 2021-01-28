@@ -1,4 +1,7 @@
 ## It's baby zone.
 ----
-![alt text](https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/programming-or-googling.jpg "it's baby")
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmebabysmiley)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm from Thailand.Now I'm interested in IoT. <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmebabysmiley&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmebabysmiley&theme=dracula)
+
