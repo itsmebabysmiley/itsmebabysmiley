@@ -1,7 +1,8 @@
 ## It's baby zone.
 ----
 Hi, I'm from Thailand. <br>
-Now I'm interested in IoT and Network sercuity. <br>
+Now I'm interested in IoT. <br>
+CTF is my favorite games. <br>
 This GitHub is mainly use in university.<br>
 I have another GitHub but you don't need to know. hhhh <br>
 
